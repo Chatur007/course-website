@@ -1,2 +1,2 @@
 # course-website
-I have dome a course website showcasing their Couse
+I have done a course website showcasing their Couse
